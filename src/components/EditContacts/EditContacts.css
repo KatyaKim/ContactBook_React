@@ -1,0 +1,25 @@
+.editInputs {
+  margin-top: 30px;
+}
+
+.editName {
+  height: 23px;
+  width: 150px;
+  margin-right: 8px;
+  margin-left: 150px;
+}
+
+.editLastName {
+  height: 23px;
+  width: 150px;
+  margin-right: 8px;
+}
+
+.editPhoto {
+  height: 23px;
+  width: 150px;
+  margin-right: 8px;
+}
+
+.editBtn {
+}

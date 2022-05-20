@@ -1,0 +1,15 @@
+.Contacts-list {
+  /* list-style: none; */
+
+  border: 5px;
+}
+
+.cards {
+  background-color: rgba(130, 158, 179, 0.626);
+  /* margin-top: 10px; */
+}
+
+.btn {
+  margin-right: 10px;
+  margin-left: 5px;
+}
